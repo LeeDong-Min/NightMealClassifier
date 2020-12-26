@@ -16,3 +16,6 @@
 - 순대
 - 떡볶이
 
+---
+
+### 상세 설명 :https://www.notion.so/NightMealClassifier-37dbd523d8654694b03cf20b36500064
